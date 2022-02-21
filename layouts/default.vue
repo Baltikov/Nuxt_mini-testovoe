@@ -6,7 +6,6 @@
         <span v-else>Все пользователи</span>
       </h1>
     </el-header>
-    <index/>
     <el-main><Nuxt/></el-main>
   </el-container>
 </template>
